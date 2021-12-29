@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Blockchain / Full-Stack Developer</h1>
-<p align="center"><img align="center" style="width:96%" src="visionnaire-linguagens-de-programacao_14045_img.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full Stack Engineer | Blockchain Developer</h1>
+<p align="center"><img align="center" style="width:96%" src="https://miro.medium.com/max/4000/1*bYAIrVBRWSCCKnbtST8XTw.jpeg" style = "width: -webkit-fill-available;"/></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"></a>
 </p>
